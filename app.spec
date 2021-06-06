@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['app.py'],
-             pathex=['E:\\Nayr\\Mercubuana\\Semester 3\\Kriptografi dan Steganografi\\Tugas\\TB2\\tb2_kripto_progress'],
+             pathex=['E:\\Nayr\\Mercubuana\\Semester 3\\Kriptografi dan Steganografi\\Tugas\\TB2\\tb2_kriptografi'],
              binaries=[],
              datas=[],
              hiddenimports=[],
